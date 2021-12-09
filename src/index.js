@@ -33,6 +33,7 @@ async function handleSearch(event) {
     }
 }
 
+
 // countries should be array of countries with length <= 4.
 function renderCountries(countries) {
     let markup;
